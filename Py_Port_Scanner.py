@@ -4,8 +4,9 @@
 # Name:        Py_Port_Scanner
 # Purpose:     Simple, quick and easy port scanner 
 # Version:     Version 1.0 (P2-20191026)
-# Author:      CyberStack
-# Created:     26/10/2019
+# Author:      CyberStack.org
+# Created:     2019/10/26
+# Twitter:	   @CyberStackorg
 #-------------------------------------------------------------------------------
 
 '''To Do:
